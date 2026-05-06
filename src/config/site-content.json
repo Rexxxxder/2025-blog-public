@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "RexxxxderZone",
+		"description": "同人图、文 / 原创百合 / 学习记录",
+		"username": "Rexder"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -31,9 +31,13 @@
 		{
 			"id": "1c7b726fe720679b",
 			"url": "/images/art/1c7b726fe720679b.jpg"
+		},
+		{
+			"id": "dfb8689af86c34ea",
+			"url": "/images/art/dfb8689af86c34ea.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "dfb8689af86c34ea",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -44,22 +48,22 @@
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
+			"type": "xiaohongshu",
 			"value": "https://github.com/yysuni",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "x",
+			"value": "https://x.com/Rexxxxder",
+			"label": "X账号",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "rexxxxder@163.com",
 			"label": "",
 			"order": 1
 		}

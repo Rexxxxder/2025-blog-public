@@ -5,9 +5,9 @@
 		"username": "Rexder"
 	},
 	"theme": {
-		"colorBrand": "#57AF3C",
-		"colorPrimary": "#ff1a7d",
-		"colorSecondary": "#00b1d6",
+		"colorBrand": "#35bfab",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
 		"colorBrandSecondary": "#1fc9e7",
 		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
@@ -15,14 +15,12 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#400974",
-		"#80CDA0",
-		"#681013",
-		"#302D30",
-		"#174F9D",
-		"#B15036",
-		"#8FBA81",
-		"#20F7C1"
+		"#EDDD62",
+		"#9EE7D1",
+		"#84D68A",
+		"#EDDD62",
+		"#88E6E5",
+		"#a7f3d0"
 	],
 	"artImages": [
 		{
